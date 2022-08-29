@@ -1,10 +1,11 @@
-### Hi, I'm [Fariha](https://mahzabinrashid.github.io/) 👋
+### Hi, I'm [Fariha](https://mahzabin.netlify.app/) 👋
 ---
 
 
 ### About Me:
-- 👩‍🎓  Studying Computer Science at the University of Waterloo
-- 🔍  Seeking Summer 2022 internships
-- ☕️  Check out my latest project [Coffee Hours](https://coffee-hours-technova.web.app/)
+- 👩‍🎓  Computer Science student at the University of Waterloo
+- 📚  Co-Founder at [TutorLab](https://tutorlab.io/)
+- 🔙  For my past co-ops, I have worked as a Web Engineer at [Wattpad](https://www.wattpad.com/) and a Frontend Engineer at [Modumate](https://www.modumate.com/)
+- 🔍  Seeking Winter 2023 internships
 
-### 📫  Email me at: m2fariha@uwaterloo.ca
+### 📫  Reach me at: m2fariha@uwaterloo.ca
