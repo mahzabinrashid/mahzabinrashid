@@ -1,4 +1,4 @@
-### Hi, I'm [Fariha](https://mahzabin.netlify.app/) 👋
+### Hi, I'm [Fariha](https://mahzabin-rashid.com/) 👋
 ---
 
 
