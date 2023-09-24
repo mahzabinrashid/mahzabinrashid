@@ -1,13 +1,14 @@
-### Hi, I'm [Fariha](https://mahzabin-rashid.com/) 👋
+### Hi, I'm [Fariha](https://mahzabin-rashid.com/)! 👋
 ---
 
+#### About Me:
 
-### About Me:
-- 👩‍🎓  Computer Science student at the University of Waterloo
-- 📚  Co-Founder at [TutorLab](https://tutorlab.io/)
-- 🔙  For my past co-ops, I have worked as a Software Engineer at [Wealthsimple](https://wealthsimple.com/), a Web Engineer at [Wattpad](https://www.wattpad.com/) and a Frontend Engineer at [Modumate](https://www.modumate.com/)
-- 🔍  Seeking SWE Summer+Fall 2024 internships
+- 🎓 Third-year Computer Science student at the University of Waterloo.
+- 💻 Experienced Software Engineer with past roles at [Wealthsimple](https://wealthsimple.com/), [Wattpad](https://www.wattpad.com/), and [Modumate](https://www.modumate.com/).
+- 🔍 Currently seeking Software Engineering internships for Summer and Fall 2024.
 ---
 
+#### 📫 Connect with me:
 
-### 📫  Reach me at: m2fariha@uwaterloo.ca
+- 📧 Email: m2fariha@uwaterloo.ca
+- 🔗 LinkedIn: linkedin.com/in/mahzabin-rashid/[https://www.linkedin.com/in/mahzabin-rashid/]
