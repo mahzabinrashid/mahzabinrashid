@@ -4,9 +4,10 @@
 
 
 **About Me:**
-- 🎓  Third-year Computer Science student at the University of Waterloo
-- 💻  For my past co-ops, I have worked as a Software Engineer at [Wealthsimple](https://wealthsimple.com/), a Web Engineer at [Wattpad](https://www.wattpad.com/), and a Frontend Engineer at [Modumate](https://www.modumate.com/)
-- 🔍  Seeking SWE Summer+Fall 2024 internships
+- 🎒 Fourth-year Computer Science Student at the University of Waterloo
+- 💻 Previously interned as a Software Developer @ [Wealthsimple](https://wealthsimple.com/), [Relay Financial](https://relayfi.com/), [Wattpad](https://www.wattpad.com/), [Modumate](https://www.modumate.com/)
+- 🌱 2023 Engineering Lead [@technova](https://itstechnova.org/)
+
 
 ---
 
